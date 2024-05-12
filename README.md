@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Weather Forecasting Project.**
 
-- 🌱 I’m currently learning **Flask, Django, NLP**
+- 🌱 I’m currently learning **Flask, FastAPI, NLP**
 
 - 👯 I’m looking to collaborate on **More backend projects with ML technologies.**
 
-- 🤝 I’m looking for help with **Django projects**
+- 🤝 I’m looking for help with **Flask and FastAPI projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manishsingh89716/Activity_Recognition_System_Project](https://github.com/Manishsingh89716/Activity_Recognition_System_Project)
 
