@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsingh89716&label=Profile%20views&color=0e75b6&style=flat" alt="manishsingh89716" /> </p>
 
-- 🔭 I’m currently working on **Weather Forecasting Project.**
+- 🔭 I’m currently working on **API Design and Flask backend Projects**
 
-- 🌱 I’m currently learning **Flask, FastAPI, NLP**
+- 🌱 I’m currently learning **Flask, FastAPI, NLP, Langchain**
 
 - 👯 I’m looking to collaborate on **More backend projects with ML technologies.**
 
 - 🤝 I’m looking for help with **Flask and FastAPI projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manishsingh89716/Activity_Recognition_System_Project](https://github.com/Manishsingh89716/Activity_Recognition_System_Project)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/manishsingh89/details/projects/]
 
 - 💬 Ask me about **Coding, Astronomy, Leadership, AI**
 
