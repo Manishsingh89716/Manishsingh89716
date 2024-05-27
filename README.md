@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
-<h3 align="center">I'm Strong in design and integration with intuitive problem-solving skills. Proficient in Python, Flask, OOP, MySQL, ML and DSA. Passionate about implementing and building new projects. Ability to translate business requirements into innovative technical solutions. Looking to start the career as an entry level Software Engineer.</h3>
+<h3 align="center">I'm Strong in design and integration with intuitive problem-solving skills. Proficient in Python, Flask, FastAPI, OOP, MySQL, ML and DSA. Passionate about implementing and building new projects. Ability to translate business requirements into innovative technical solutions. Looking to start the career as an entry level Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsingh89716&label=Profile%20views&color=0e75b6&style=flat" alt="manishsingh89716" /> </p>
 
