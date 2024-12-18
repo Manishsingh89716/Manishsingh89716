@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsingh89716&label=Profile%20views&color=0e75b6&style=flat" alt="manishsingh89716" /> </p>
 
-- 🔭 I’m currently working on **API Design and Flask backend Projects**
+- 🔭 I’m currently working on **API Design with Flask & FastAPI & PostgreSQL.**
 
-- 🌱 I’m currently learning **Flask, FastAPI, NLP, Langchain**
+- 🌱 I’m currently learning **Flask, FastAPI, NLP, Langchain.**
 
-- 👯 I’m looking to collaborate on **More backend projects with ML technologies.**
-
-- 🤝 I’m looking for help with **Flask and FastAPI projects**
+- 👯 I’m looking to collaborate on **Flask, FastAPI & LLM based projects.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/manishsingh89/details/projects/]
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **manishsingh89716@gmail.com**
 
-- ⚡ Fun fact **I am a curious and introvert type person.**
+- ⚡ Fun fact **I am a curious and introverted person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
