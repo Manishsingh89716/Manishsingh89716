@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
-<h3 align="center">With over 2 years of experience, I excel in designing and integrating scalable systems with a strong focus on intuitive problem-solving. Proficient in Python, Java, Flask, FastAPI, web programming, OOP, MySQL, machine learning, and DSA, I am passionate about building and implementing innovative projects. I have a proven ability to translate complex business requirements into effective and efficient technical solutions that drive impact.</h3>
+<h3 align="center">With over 2 years of experience, I excel in designing and integrating scalable systems with a strong focus on intuitive problem-solving. Proficient in Python, Java, Flask, FastAPI, web programming, OOP, MySQL, machine learning, and DSA, I am passionate about building and implementing innovative projects. I have hands-on experience with microservices architecture and CI/CD pipelines, enabling rapid, reliable deployment of high-quality software. I’m skilled at translating complex business requirements into efficient technical solutions that drive real-world impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsingh89716&label=Profile%20views&color=0e75b6&style=flat" alt="manishsingh89716" /> </p>
 
