@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsingh89716&label=Profile%20views&color=0e75b6&style=flat" alt="manishsingh89716" /> </p>
 
-- 🔭 I’m currently working on **API Design with Flask & FastAPI & PostgreSQL.**
-
-- 🌱 I’m currently learning **Flask, FastAPI, NLP, Langchain.**
+- 🔭 I’m currently working on **API Design with Flask/FastAPI, Redis/Celery & PostgreSQL.**
 
 - 👯 I’m looking to collaborate on **Flask, FastAPI & LLM based projects.**
 
