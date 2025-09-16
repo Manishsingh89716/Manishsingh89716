@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Flask, FastAPI & LLM based projects.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/manishsingh89/details/projects/]
-
 - 💬 Ask me about **Coding, Astronomy, Leadership, AI**
 
 - 📫 How to reach me **manishsingh89716@gmail.com**
