@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **API Design with Flask/FastAPI, Redis/Celery & PostgreSQL.**
 
-- 👯 I’m looking to collaborate on **Flask, FastAPI & LLM based projects.**
-
 - 💬 Ask me about **Coding, Astronomy, Leadership, AI**
 
 - 📫 How to reach me **manishsingh89716@gmail.com**
